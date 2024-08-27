@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "chair",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 2,
+        "name": "bed",
+        "price": 400,
+        "img": "Images\basins_image.jpg"
+    },
+    {
+        "id": 3,
+        "name": "sofa",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 4,
+        "name": "classic ",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 5,
+        "name": "chair",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 6,
+        "name": "chair",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 7,
+        "name": "chair",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    },
+    {
+        "id": 8,
+        "name": "chair",
+        "price": 200,
+        "img": "chair_PNG6908.png"
+    }
+]
